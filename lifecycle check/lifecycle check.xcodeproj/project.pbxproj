@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		02397A802A5999B400356AE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02397A7F2A5999B400356AE9 /* AppDelegate.swift */; };
 		02397A822A5999B400356AE9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02397A812A5999B400356AE9 /* SceneDelegate.swift */; };
-		02397A842A5999B400356AE9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02397A832A5999B400356AE9 /* ViewController.swift */; };
+		02397A842A5999B400356AE9 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02397A832A5999B400356AE9 /* ViewController1.swift */; };
 		02397A872A5999B400356AE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02397A852A5999B400356AE9 /* Main.storyboard */; };
 		02397A892A5999B500356AE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02397A882A5999B500356AE9 /* Assets.xcassets */; };
 		02397A8C2A5999B500356AE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02397A8A2A5999B500356AE9 /* LaunchScreen.storyboard */; };
+		02397A942A599A3300356AE9 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02397A932A599A3300356AE9 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		02397A7C2A5999B400356AE9 /* lifecycle check.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lifecycle check.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		02397A7F2A5999B400356AE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02397A812A5999B400356AE9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		02397A832A5999B400356AE9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		02397A832A5999B400356AE9 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 		02397A862A5999B400356AE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		02397A882A5999B500356AE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02397A8B2A5999B500356AE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		02397A8D2A5999B500356AE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02397A932A599A3300356AE9 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +60,8 @@
 			children = (
 				02397A7F2A5999B400356AE9 /* AppDelegate.swift */,
 				02397A812A5999B400356AE9 /* SceneDelegate.swift */,
-				02397A832A5999B400356AE9 /* ViewController.swift */,
+				02397A832A5999B400356AE9 /* ViewController1.swift */,
+				02397A932A599A3300356AE9 /* ViewController2.swift */,
 				02397A852A5999B400356AE9 /* Main.storyboard */,
 				02397A882A5999B500356AE9 /* Assets.xcassets */,
 				02397A8A2A5999B500356AE9 /* LaunchScreen.storyboard */,
@@ -138,7 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02397A842A5999B400356AE9 /* ViewController.swift in Sources */,
+				02397A842A5999B400356AE9 /* ViewController1.swift in Sources */,
+				02397A942A599A3300356AE9 /* ViewController2.swift in Sources */,
 				02397A802A5999B400356AE9 /* AppDelegate.swift in Sources */,
 				02397A822A5999B400356AE9 /* SceneDelegate.swift in Sources */,
 			);
